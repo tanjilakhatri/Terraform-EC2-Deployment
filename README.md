@@ -1,6 +1,18 @@
 # 🚀 Launch EC2 Instance Using Terraform
 
 <p align="center">
+
+![AWS](https://img.shields.io/badge/AWS-EC2-orange?style=for-the-badge&logo=amazonaws)
+
+![Terraform](https://img.shields.io/badge/Terraform-IaC-7B42BC?style=for-the-badge&logo=terraform)
+
+![Linux](https://img.shields.io/badge/Linux-Ubuntu-E95420?style=for-the-badge&logo=linux)
+
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
+
+</p>
+
+<p align="center">
   <img src="images/banner.png" alt="Project Banner" width="100%">
 </p>
 
@@ -11,6 +23,28 @@
 <p align="center">
   <img src="images/architecture-dark.png" alt="AWS Terraform Architecture" width="100%">
 </p>
+
+📖 Project Overview
+
+🎯 Objectives
+
+🛠️ Technologies Used
+
+☁️ AWS Services Used
+
+📂 Project Structure
+
+⚙️ Terraform Workflow
+
+✨ Features
+
+📸 Project Screenshots
+
+📚 Learning Outcomes
+
+🚀 Future Enhancements
+
+👩‍💻 Author
 
 ---
 
