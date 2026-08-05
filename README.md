@@ -4,6 +4,35 @@
   <img src="images/banner.png" alt="Project Banner" width="100%">
 </p>
 
+---
+
+# 🏗️ Architecture Diagram
+
+<p align="center">
+  <img src="images/architecture-dark.png" alt="AWS Terraform Architecture" width="100%">
+</p>
+
+---
+
+## 🔄 Project Workflow
+
+```text
+Developer
+    │
+    ▼
+Terraform Configuration Files (.tf)
+    │
+    ▼
+Terraform Commands
+(terraform init → plan → apply)
+    │
+    ▼
+AWS Provider
+    │
+    ▼
+Amazon EC2 Instance
+```
+
 ## 📖 Project Overview
 
 This project demonstrates how to provision an Amazon EC2 instance on AWS using **Terraform**, an Infrastructure as Code (IaC) tool. Instead of manually creating cloud resources through the AWS Management Console, the infrastructure is defined in Terraform configuration files, making the deployment process automated, repeatable, and efficient.
