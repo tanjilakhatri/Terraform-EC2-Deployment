@@ -1,3 +1,9 @@
 # Screenshots Folder
 
-This folder contains Terraform execution screenshots and AWS EC2 screenshots used in the project documentation.
+terraform-init.png
+
+terraform-plan.png
+
+terraform-apply.png
+
+ec2-running.png
