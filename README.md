@@ -316,13 +316,26 @@ This project demonstrates the practical implementation of Infrastructure as Code
 
 ---
 
-## 👩‍💻 Author
+# 👩‍💻 Author
 
-**Tanjila Khatri**
+## Tanjila Khatri
 
-B.Tech Computer Science Engineering
+**B.Tech Computer Science Engineering**
 
-Cloud Computing Enthusiast
+☁️ Cloud Computing Enthusiast
+
+### Technical Skills
+
+- Amazon Web Services (AWS)
+- Terraform
+- Linux
+- Git & GitHub
+- Python
+- Infrastructure as Code (IaC)
+
+---
+
+⭐ **If you found this project useful, don't forget to give it a Star!**
 
 ### Connect with Me
 
