@@ -242,7 +242,7 @@ Cloud Computing Enthusiast
 ### Connect with Me
 
 - GitHub: https://github.com/tanjilakhatri
-- LinkedIn: https://www.linkedin.com/in/Tanjila khatri/
+- LinkedIn: https://www.linkedin.com/in/Tanjilakhatri/
 
 ---
 
