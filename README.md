@@ -217,7 +217,29 @@ This command removes the infrastructure created by Terraform.
 
 ## 📸 Project Screenshots
 
-Add your screenshots in the `screenshots` folder and update the image paths below.
+# 📸 Project Screenshots
+
+## Terraform Initialization
+
+![Terraform Init](screenshots/terraform-init.png)
+
+---
+
+## Terraform Plan
+
+![Terraform Plan](screenshots/terraform-plan.png)
+
+---
+
+## Terraform Apply
+
+![Terraform Apply](screenshots/terraform-apply.png)
+
+---
+
+## EC2 Running Successfully
+
+![EC2 Running](screenshots/ec2-running.png)
 
 ### Terraform Initialization
 
