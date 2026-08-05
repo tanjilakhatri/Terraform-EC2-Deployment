@@ -1,8 +1,8 @@
 # 🚀 Launch EC2 Instance Using Terraform
 
-> Automating AWS EC2 provisioning using Terraform Infrastructure as Code (IaC).
-
----
+<p align="center">
+  <img src="images/banner.png" alt="Project Banner" width="100%">
+</p>
 
 ## 📖 Project Overview
 
