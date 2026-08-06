@@ -39,10 +39,11 @@ This project successfully demonstrates the deployment of an Amazon EC2 instance 
 - [🚀 Future Enhancements](#-future-enhancements)
 - [👩‍💻 Author](#-author)
 
-# 🏗️ Architecture Diagram
+
+## 🏗️ Architecture Diagram
 
 <p align="center">
-  <img src="images/architecture-dark.png" alt="AWS Terraform Architecture" width="100%">
+  <img src="images/architecture.png" alt="AWS Terraform Architecture" width="100%">
 </p>
 
 📖 Project Overview
