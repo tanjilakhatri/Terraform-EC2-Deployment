@@ -239,36 +239,37 @@ This command removes the infrastructure created by Terraform.
 ---
 
 ## 📸 Project Screenshots
+## 📸 Project Screenshots
 
 ### 🔹 Terraform Initialization
 
 Terraform successfully initialized the working directory.
 
-![Terraform Init](screenshots/terraform-init.png)
+![Terraform Init](screenshots/terraform_init.png)
 
 ---
 
 ### 🔹 Terraform Plan
 
-Terraform generated an execution plan before deployment.
+Terraform generated the execution plan before creating resources.
 
-![Terraform Plan](screenshots/terraform-plan.png)
+![Terraform Plan](screenshots/terraform_plan.png)
 
 ---
 
 ### 🔹 Terraform Apply
 
-Terraform successfully provisioned the EC2 instance.
+Terraform successfully provisioned the Amazon EC2 instance.
 
-![Terraform Apply](screenshots/terraform-apply.png)
+![Terraform Apply](screenshots/terraform_apply.png)
 
 ---
 
 ### 🔹 EC2 Instance Running
 
-The deployed Amazon EC2 instance is running successfully in the AWS Console.
+The EC2 instance is running successfully in the AWS Management Console.
 
-![EC2 Running](screenshots/ec2-running.png)
+![EC2 Running](screenshots/ec2_running.png)
 
 ## 📚 Learning Outcomes
 
