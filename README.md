@@ -18,6 +18,21 @@
 
 ---
 
+## 📑 Table of Contents
+
+- [📖 Project Overview](#-project-overview)
+- [🎯 Objectives](#-objectives)
+- [🏗️ Architecture Diagram](#️-architecture-diagram)
+- [🛠️ Technologies Used](#️-technologies-used)
+- [☁️ AWS Services Used](#️-aws-services-used)
+- [📂 Project Structure](#-project-structure)
+- [⚙️ Terraform Workflow](#️-terraform-workflow)
+- [✨ Features](#-features)
+- [📸 Project Screenshots](#-project-screenshots)
+- [📚 Learning Outcomes](#-learning-outcomes)
+- [🚀 Future Enhancements](#-future-enhancements)
+- [👩‍💻 Author](#-author)
+
 # 🏗️ Architecture Diagram
 
 <p align="center">
