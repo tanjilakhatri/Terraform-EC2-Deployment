@@ -53,29 +53,6 @@ This project successfully demonstrates the deployment of an Amazon EC2 instance 
 - [🚀 Future Enhancements](#-future-enhancements)
 - [👩‍💻 Author](#-author)
 
-
-📖 Project Overview
-
-🎯 Objectives
-
-🛠️ Technologies Used
-
-☁️ AWS Services Used
-
-📂 Project Structure
-
-⚙️ Terraform Workflow
-
-✨ Features
-
-📸 Project Screenshots
-
-📚 Learning Outcomes
-
-🚀 Future Enhancements
-
-👩‍💻 Author
-
 ---
 
 ## 🔄 Project Workflow
