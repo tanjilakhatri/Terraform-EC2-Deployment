@@ -12,6 +12,12 @@
 
 </p>
 
+## 📌 Project Status
+
+✅ Completed
+
+This project successfully demonstrates the deployment of an Amazon EC2 instance on AWS using Terraform Infrastructure as Code (IaC).
+
 <p align="center">
   <img src="images/banner.png" alt="Project Banner" width="100%">
 </p>
@@ -102,14 +108,14 @@ This project helped me gain practical experience with cloud infrastructure autom
 
 ## 🛠️ Technologies Used
 
-- Amazon Web Services (AWS)
-- Amazon EC2
-- Terraform
-- AWS CLI
-- Git
-- GitHub
-- Linux
-
+| Category | Technology |
+|----------|------------|
+| Cloud Platform | Amazon Web Services (AWS) |
+| Compute Service | Amazon EC2 |
+| Infrastructure as Code | Terraform |
+| Version Control | Git & GitHub |
+| Operating System | Linux |
+| CLI Tool | AWS CLI |
 ---
 
 ## ☁️ AWS Services Used
@@ -211,12 +217,13 @@ This command removes the infrastructure created by Terraform.
 
 ## ✨ Features
 
-- Automated EC2 instance deployment
-- Infrastructure managed as code
-- Reproducible deployments
-- Simple and organized Terraform configuration
-- Easy infrastructure management
-- Version-controlled project using Git and GitHub
+- 🚀 Automated EC2 Instance Deployment
+- ⚙️ Infrastructure as Code using Terraform
+- ☁️ AWS Cloud Resource Provisioning
+- 🔄 Repeatable and Consistent Deployments
+- 🔒 Secure Configuration Management
+- 📄 Simple and Well-Organized Terraform Code
+- 📦 Version Controlled with Git and GitHub
 
 ---
 
@@ -232,61 +239,35 @@ This command removes the infrastructure created by Terraform.
 
 ## 📸 Project Screenshots
 
-# 📸 Project Screenshots
+### 🔹 Terraform Initialization
 
-## Terraform Initialization
+Terraform successfully initialized the working directory.
 
 ![Terraform Init](screenshots/terraform-init.png)
 
 ---
 
-## Terraform Plan
+### 🔹 Terraform Plan
+
+Terraform generated an execution plan before deployment.
 
 ![Terraform Plan](screenshots/terraform-plan.png)
 
 ---
 
-## Terraform Apply
+### 🔹 Terraform Apply
+
+Terraform successfully provisioned the EC2 instance.
 
 ![Terraform Apply](screenshots/terraform-apply.png)
 
 ---
 
-## EC2 Running Successfully
+### 🔹 EC2 Instance Running
+
+The deployed Amazon EC2 instance is running successfully in the AWS Console.
 
 ![EC2 Running](screenshots/ec2-running.png)
-
-### Terraform Initialization
-
-```text
-screenshots/terraform-init.png
-```
-
----
-
-### Terraform Plan
-
-```text
-screenshots/terraform-plan.png
-```
-
----
-
-### Terraform Apply
-
-```text
-screenshots/terraform-apply.png
-```
-
----
-
-### AWS EC2 Instance Running
-
-```text
-screenshots/ec2-running.png
-```
-
----
 
 ## 📚 Learning Outcomes
 
@@ -331,13 +312,17 @@ This project demonstrates the practical implementation of Infrastructure as Code
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
-## Tanjila Khatri
+### Tanjila Khatri
 
-**B.Tech Computer Science Engineering**
+**B.Tech – Computer Science Engineering**
 
-☁️ Cloud Computing Enthusiast
+Cloud Computing Enthusiast | AWS | Terraform | Linux
+
+---
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 ### Technical Skills
 
