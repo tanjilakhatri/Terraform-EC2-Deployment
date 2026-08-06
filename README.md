@@ -22,6 +22,12 @@ This project successfully demonstrates the deployment of an Amazon EC2 instance 
   <img src="images/banner.png" alt="Project Banner" width="100%">
 </p>
 
+## 🏗️ Architecture
+
+<p align="center">
+  <img src="images/architecture.png" width="100%">
+</p>
+
 ---
 
 ## 📑 Table of Contents
@@ -97,6 +103,18 @@ This project helped me gain practical experience with cloud infrastructure autom
 
 ---
 
+## 📌 Project Summary
+
+| Feature | Details |
+|---------|---------|
+| Cloud Provider | Amazon Web Services (AWS) |
+| Service | Amazon EC2 |
+| IaC Tool | Terraform |
+| Region | ap-south-1 |
+| Instance Type | t2.micro |
+| Operating System | Linux |
+| Version Control | Git & GitHub |
+
 ## 🎯 Objectives
 
 - Automate the creation of an Amazon EC2 instance using Terraform.
@@ -144,6 +162,57 @@ Launch-EC2-Using-Terraform/
 
 ---
 
+## 📋 Prerequisites
+
+## 🚀 Installation / Getting Started
+
+### 1. Clone the Repository
+
+```bash
+git clone https://github.com/tanjilakhatri/Terraform-EC2-Deployment.git
+```
+
+### 2. Navigate to the Project Directory
+
+```bash
+cd Terraform-EC2-Deployment
+```
+
+### 3. Configure AWS Credentials
+
+```bash
+aws configure
+```
+
+### 4. Initialize Terraform
+
+```bash
+terraform init
+```
+
+### 5. Review the Execution Plan
+
+```bash
+terraform plan
+```
+
+### 6. Deploy the Infrastructure
+
+```bash
+terraform apply
+```
+
+Type **yes** when prompted.
+
+### 7. Verify the EC2 Instance
+
+Open the AWS Management Console and confirm that the EC2 instance has been created successfully.
+
+### 8. Destroy the Infrastructure (Optional)
+
+```bash
+terraform destroy
+```
 ## ⚙️ Terraform Workflow
 
 ### 1. Configure AWS Credentials
@@ -238,7 +307,6 @@ This command removes the infrastructure created by Terraform.
 
 ---
 
-## 📸 Project Screenshots
 ## 📸 Project Screenshots
 
 ### 🔹 Terraform Initialization
@@ -343,6 +411,16 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub.
 
 - GitHub: https://github.com/tanjilakhatri
 - LinkedIn: https://www.linkedin.com/in/Tanjilakhatri/
+
+  ---
+
+## ⭐ Support
+
+If you found this project helpful, please consider giving it a ⭐ on GitHub.
+
+It motivates me to build more cloud and DevOps projects.
+
+Thank you for visiting my repository!
 
 ---
 
