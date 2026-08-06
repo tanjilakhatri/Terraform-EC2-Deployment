@@ -10,6 +10,14 @@
 
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black?style=for-the-badge&logo=github)
 
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
+
+![Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)
+
+![IaC](https://img.shields.io/badge/Infrastructure_as_Code-Terraform-blueviolet?style=for-the-badge)
+
+![Cloud](https://img.shields.io/badge/Cloud-AWS-FF9900?style=for-the-badge)
+
 </p>
 
 ## 📌 Project Status
@@ -285,6 +293,23 @@ This command removes the infrastructure created by Terraform.
 
 ---
 
+## 📤 Output
+
+After successfully executing the Terraform configuration, the following resources are created:
+
+- ✅ Amazon EC2 Instance
+- ✅ Public IPv4 Address
+- ✅ Instance ID
+- ✅ Running EC2 Instance in the AWS Management Console
+
+The output values can be viewed using:
+
+```bash
+terraform output
+```
+
+You can also verify the deployed instance by navigating to the **Amazon EC2 Console** in your AWS account.
+
 ## ✨ Features
 
 - 🚀 Automated EC2 Instance Deployment
@@ -387,8 +412,14 @@ This project demonstrates the practical implementation of Infrastructure as Code
 ### Tanjila Khatri
 
 **B.Tech – Computer Science Engineering**
+**Aspiring Cloud Engineer | AWS | Terraform | Linux | Git | GitHub**
 
-Cloud Computing Enthusiast | AWS | Terraform | Linux
+
+### Connect with Me
+
+- GitHub: https://github.com/tanjilakhatri
+- LinkedIn: https://www.linkedin.com/in/Tanjilakhatri/
+
 
 ---
 
@@ -404,23 +435,6 @@ If you found this project helpful, please consider giving it a ⭐ on GitHub.
 - Infrastructure as Code (IaC)
 
 ---
-
-⭐ **If you found this project useful, don't forget to give it a Star!**
-
-### Connect with Me
-
-- GitHub: https://github.com/tanjilakhatri
-- LinkedIn: https://www.linkedin.com/in/Tanjilakhatri/
-
-  ---
-
-## ⭐ Support
-
-If you found this project helpful, please consider giving it a ⭐ on GitHub.
-
-It motivates me to build more cloud and DevOps projects.
-
-Thank you for visiting my repository!
 
 ---
 
