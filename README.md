@@ -389,7 +389,7 @@ This project demonstrates the practical implementation of Infrastructure as Code
 ### Connect with Me
 
 - GitHub: https://github.com/tanjilakhatri
-- LinkedIn: https://www.linkedin.com/in/Tanjilakhatri/
+- LinkedIn: https://www.linkedin.com/in/tanjila-khatri-1a6a543a6/
 
 
 ---
