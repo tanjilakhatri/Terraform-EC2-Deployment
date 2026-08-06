@@ -54,12 +54,6 @@ This project successfully demonstrates the deployment of an Amazon EC2 instance 
 - [👩‍💻 Author](#-author)
 
 
-## 🏗️ Architecture Diagram
-
-<p align="center">
-  <img src="images/architecture.png" alt="AWS Terraform Architecture" width="100%">
-</p>
-
 📖 Project Overview
 
 🎯 Objectives
